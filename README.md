@@ -1,2 +1,2 @@
 # mobilenativefoundation.org
-Mobile Native Foundation
+Mobile NativeFoundation
